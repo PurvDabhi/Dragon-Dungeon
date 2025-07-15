@@ -1,33 +1,53 @@
-**Introduction**
+# Dragon Dungeon
 
-Welcome to my first Unity 2D platformer game! This project is a simple 2D platformer built using Unity. The goal is to navigate the player character through various levels, avoiding obstacles and enemies to reach the finish line.
+Welcome to **Dragon Dungeon**!
 
-**Features**
+This repository contains my first Unity learning project—a dummy 2D platformer game. The project serves as a hands-on introduction to Unity game development, focusing on core platformer mechanics and basic game design principles.
 
-1. Classic Platformer Mechanics: Jump, run, and navigate through obstacles.
-2. Multiple Levels: Progress through different levels with increasing difficulty.
-3. Enemies and Hazards: Avoid or defeat various enemies and environmental hazards.
-4. Collectibles: Gather items for points or special abilities.
-5. Basic UI: A simple user interface to start the game, pause, and display score/lives.
+## Overview
 
-**Installation**
+Dragon Dungeon is a simple 2D platformer built using Unity.  
+It features basic player movement, jumping, and interaction with platforms.  
+This project is primarily intended for learning and experimenting with Unity features, scripts, and game structure.
 
-1. Clone the repository - git clone https://github.com/PurvDabhi/Dragon-Dungeon.git
-2. Install unity engine through unity website - https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
-3. Make sure you have Unity installed (recommended version: 2022.3 or later).
-4. Click on "Add" to add the project on Unity.
-5. Press the Play button in Unity to play the game in editor.
+## Features
 
+- Basic player controls (movement & jump)
+- 2D platformer environment
+- Placeholder graphics and assets
+- Simple level design for prototyping
+- Designed for Unity beginners
 
-`Note: It's just a demo game so don't keep your exception high and also user can modify the levels on their own using editor.`
+## Getting Started
 
+To run this project:
 
-**How To Play**
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/PurvDabhi/Dragon-Dungeon.git
+    ```
+2. Open the project folder in Unity Hub.
+3. Use Unity Editor (recommended version: 2021.3 LTS or later) to open and run the scene.
 
-WASD - Move the character
+## Usage
 
-Spacebar - Jump
+- Play the game in the Unity Editor by pressing the Play button.
+- Explore the code and assets to understand basic 2D platformer implementation.
 
-LMB - Attack
+## Contributing
 
-ESC - Pause
+As this is a learning project, contributions are welcome for suggestions, improvements, or new features.  
+Feel free to fork the repo and submit a pull request!
+
+## License
+
+This project is licensed under the MIT License.  
+See [LICENSE](LICENSE) for more information.
+
+## Author
+
+Created by [PurvDabhi](https://github.com/PurvDabhi).
+
+---
+
+*This project is intended for learning and experimentation with Unity. Feel free to use it as a reference or base for your own Unity projects!*
